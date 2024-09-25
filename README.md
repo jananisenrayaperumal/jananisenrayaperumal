@@ -6,7 +6,7 @@ Hello! I'm a frontend developer with 5+ years of experience building responsive 
 
 - 😄 My Pronouns: **She/Her**
 
-- 📍 Based near India
+- 📍 **Ottawa, Canada**
 
 - 🌱 Currently, learning **Typescript**
 
