@@ -9,7 +9,7 @@
 I'm an **Engineer by profession and a passionate UI Developer**.  
 I share my knowledge and expertise in **JavaScript** and **React** through various projects and platforms.
 
-I also enjoy contributing to **open-source projects** and am always exploring new technologies to expand my skillset.
+I also enjoy contributing to open-source projects and am always **exploring new technologies to expand my skillset**.
 
 ### Technologies I Work With:
 - **Frontend:** JavaScript, React, Ionic, React-Native, HTML, CSS, jQuery, PWA
