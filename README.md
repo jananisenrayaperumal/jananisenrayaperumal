@@ -4,7 +4,7 @@
 
 Hi, I'm Janani Senrayaperumal, a Frontend Engineer specializing in React, JavaScript, and UI Optimization.
 
-[LinkedIn](https://www.linkedin.com/in/jiya-janani/) | [Portfolio](https://jananisenrayaperumal.github.io/jansite/) 
+[LinkedIn](https://www.linkedin.com/in/jananisenrayaperumal/) | [Portfolio](https://jananisenrayaperumal.github.io/jansite/) 
 
 ---
 
